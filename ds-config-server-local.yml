@@ -1,0 +1,3 @@
+aws:
+ s3:
+  bucket : cd-local-document-service
