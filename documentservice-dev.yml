@@ -1,2 +1,5 @@
 server:
  port: 9094
+aws:
+ s3:
+  bucket: cd-dev-document-service
