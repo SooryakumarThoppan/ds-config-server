@@ -1,2 +1,5 @@
 server:
  port: 9093
+aws:
+ s3:
+  bucket: cd-local-document-service
